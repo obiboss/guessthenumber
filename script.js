@@ -151,6 +151,7 @@ button03.addEventListener('click', function () {
   document.querySelector('body').style.backgroundColor = '#222';
   document.querySelector('.number').textContent = '?';
 });
+// completed
 */
 // refactoring the code and placing some code as a function
 let secretNumber = document.querySelector('.number');
