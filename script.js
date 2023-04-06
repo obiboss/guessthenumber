@@ -190,7 +190,7 @@ button01.addEventListener('click', function () {
     bodyColor('#60b347');
     topScore(highscore);
     document.querySelector('.number').style.width = '30rem';
-    mysteryNumber(number);
+    mysteryNumber(randomNumber);
   } else {
     if (score > 1) {
       showMessage(
